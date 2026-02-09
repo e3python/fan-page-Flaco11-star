@@ -47,6 +47,6 @@ p {
 .intro {
     font-family: fantasy;
     font-size: 18px;
-    color: black;
-    border: 5px solid gray ;
+    color: gray;
+    border: 5px solid black ;
 }
